@@ -18,13 +18,12 @@ task-tracker/
 ├── backend/
 │   ├── src/
 │   ├── Dockerfile
+|   └── docker-compose.yml
 │   └── package.json
 │
 ├── frontend/
 │   ├── app/
 │   └── package.json
-│
-└── docker-compose.yml
 ```
 
 ---
